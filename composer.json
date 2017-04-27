@@ -1,0 +1,8 @@
+{
+    "name": "zuileimsj/composer",
+    "description": "test project",
+    "type": "project",
+    "license": "mit",
+    "minimum-stability": "dev",
+    "require": {}
+}
